@@ -15,10 +15,7 @@
    .container{
      padding-top: 5%;
      padding-bottom: 10%;     
-   /* padding-left:30% ;
-    padding-right:  50%;; 
-    padding: 5% 30%;*/
-  }/* dont know why the containerfluid padding of  in left and right not working*/
+   }   
   .one{
     padding-left: 15%;
     
@@ -63,18 +60,10 @@
     z-index: index 0;;
     
   }
-        /* this tag not wroking in img of tinderdog on phone to make it adjustable when web is minimized
-        .img-fluid{
-             height: 50%;
-             width: 50%;
-        } */
- 
-
 /* feature */
 
   #features{
    
-    /* margin-top: 15%; */
     background-color: white;
     position: relative;
     z-index: 1;
@@ -125,7 +114,6 @@
   }
   .testimonial-img{
     width: 10%;
-    /* height: 10%; height dont work for img size reductn or expansion*/
     border-radius: 100%;
     margin: 20px;
   }
@@ -154,7 +142,7 @@
 }
  .bttn-pad{
  margin-bottom: 20%;
-} /*not working :( */
+} 
 .button-signup{
     width: 100%;
 }
